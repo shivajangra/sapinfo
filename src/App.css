@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Muli:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i|Playfair+Display:400,400i,700,700i,900,900i|Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 
-@import url('./assets/css/flaticon.css');
-@import url('./assets/css/font-awesome.css');
-@import url('./assets/css/animate.css');
-/* @import url('./assets/css/owl.css'); */
-@import url('./assets/css/jquery-ui.css');
-@import url('./assets/css/custom-animate.css');
+@import url('/assets/css/flaticon.css');
+@import url('/assets/css/font-awesome.css');
+@import url('/assets/css/animate.css');
+/* @import url('/assets/css/owl.css'); */
+@import url('/assets/css/jquery-ui.css');
+@import url('/assets/css/custom-animate.css');
 
-@import url('./assets/css/jquery.fancybox.min.css');
-/* @import url('./assets/css/jquery.mCustomScrollbar.min.css'); */
+@import url('/assets/css/jquery.fancybox.min.css');
+/* @import url('/assets/css/jquery.mCustomScrollbar.min.css'); */
 
 
  
@@ -706,7 +706,7 @@ img{
 	color:#ad8e63;
 }
 
-.preloader{ position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999; background-color:#ffffff; background-position:center center; background-repeat:no-repeat; background-image:url(./assets/images/icons/preloader.svg); background-size:100px;}
+.preloader{ position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999; background-color:#ffffff; background-position:center center; background-repeat:no-repeat; background-image:url(/assets/images/icons/preloader.svg); background-size:100px;}
 
 img{
 	display:inline-block;
@@ -1095,7 +1095,7 @@ img{
 	height:492px;
 	z-index:1;
 	display:inline-block;
-	background:url(./assets/images/main-slider/2.png) no-repeat;
+	background:url(/assets/images/main-slider/2.png) no-repeat;
 }
 
 .main-slider .auto-container{
@@ -2226,7 +2226,7 @@ img{
 	height:550px;
 	margin-left:-336px;
 	text-align:center;
-	background: url(./assets/images/icons/pattern.png) no-repeat;
+	background: url(/assets/images/icons/pattern.png) no-repeat;
 	background-position:center bottom;
 }
 
@@ -3348,7 +3348,7 @@ img{
 	bottom:0px;
 	width:543px;
 	height:368px;
-	background:url(./assets/images/icons/footer-pattern-2.png) no-repeat;
+	background:url(/assets/images/icons/footer-pattern-2.png) no-repeat;
 }
 
 .main-footer:after{
@@ -3358,7 +3358,7 @@ img{
 	top:0px;
 	width:505px;
 	height:334px;
-	background:url(./assets/images/icons/footer-pattern-1.png) no-repeat;
+	background:url(/assets/images/icons/footer-pattern-1.png) no-repeat;
 }
 
 .main-footer .footer-widget{
@@ -3526,11 +3526,11 @@ img{
 }
 
 .main-footer.style-two:before{
-	background: url(./assets/images/icons/footer-pattern-4.png) no-repeat;
+	background: url(/assets/images/icons/footer-pattern-4.png) no-repeat;
 }
 
 .main-footer.style-two:after{
-	background: url(./assets/images/icons/footer-pattern-3.png) no-repeat;
+	background: url(/assets/images/icons/footer-pattern-3.png) no-repeat;
 }
 
 .main-footer.style-three:before,
@@ -3730,7 +3730,7 @@ img{
 	top:0px;
 	width:100%;
 	height:100%;
-	background:url(./assets/images/background/pattern-1.png) left top no-repeat;
+	background:url(/assets/images/background/pattern-1.png) left top no-repeat;
 }
 
 .about-section-two:after{
@@ -3740,7 +3740,7 @@ img{
 	top:0px;
 	width:100%;
 	height:100%;
-	background:url(./assets/images/background/pattern-2.png) right top no-repeat;
+	background:url(/assets/images/background/pattern-2.png) right top no-repeat;
 }
 
 .about-section-two .video-column{
@@ -4854,7 +4854,7 @@ img{
 	text-align:center;
 	padding-top:55px;
 	display:inline-block;
-	background: url(./assets/images/icons/service-icon-1.png) no-repeat;
+	background: url(/assets/images/icons/service-icon-1.png) no-repeat;
 }
 
 .services-block-six .inner-box h6{
@@ -5029,7 +5029,7 @@ img{
 	top:0px;
 	width:100%;
 	height:100%;
-	background:url(./assets/images/background/pattern-1.png) left top no-repeat;
+	background:url(/assets/images/background/pattern-1.png) left top no-repeat;
 }
 
 .company-info-tabs .company-tabs .tabs-content:after{
@@ -5039,7 +5039,7 @@ img{
 	top:0px;
 	width:100%;
 	height:100%;
-	background:url(./assets/images/background/pattern-2.png) right top no-repeat;
+	background:url(/assets/images/background/pattern-2.png) right top no-repeat;
 }
 
 .company-info-tabs .company-tabs .tabs-content .tab{
@@ -5436,7 +5436,7 @@ img{
 	top:70px;
 	width:100%;
 	height:91px;
-	background:url(./assets/images/background/pattern-3.png) center top no-repeat;
+	background:url(/assets/images/background/pattern-3.png) center top no-repeat;
 }
 
 .services-section-six .outer-container .services-block-nine:nth-child(2),
@@ -6542,7 +6542,7 @@ img{
 	height:255px;
 	z-index:-1;
 	display:inline-block;
-	background:url(./assets/images/background/pattern-4.png) center top no-repeat;
+	background:url(/assets/images/background/pattern-4.png) center top no-repeat;
 }
 
 .about-section-four .image-column .image-2{
