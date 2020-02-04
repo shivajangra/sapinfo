@@ -21,7 +21,7 @@ class HomeSlider extends React.Component {
 						</div>
 					</div>
 					
-					<div className="slide style-two" style={{ backgroundImage:"url('/assets/images/main-slider/4.png')"}}>
+					<div className="slide style-two">
 						<div className="auto-container">
 							<div className="content">
 								<h1 className="alternate">We take extra care <span className="alternate">of your Business</span></h1>
@@ -37,7 +37,7 @@ class HomeSlider extends React.Component {
 				</div> 
 				
 				<div className="business-image-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-					<img src="/assets/images/main-slider/content-image.png" alt=""/>
+					<img src="/assets/images/main-slider/content-image.png" className="slider_img" alt=""/>
 				</div>
 				
 			</div>

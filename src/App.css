@@ -10609,3 +10609,10 @@ img{
     line-height: 1;
     padding: 12px 20px;
 }
+.slider_img {
+    width: 78%;
+    margin: 4% 2% 2% 15%;
+}
+.slide .auto-container {
+    padding: 0px 60px;
+}
