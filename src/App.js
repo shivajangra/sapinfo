@@ -16,16 +16,16 @@ class App extends React.Component {
     // this.addScript("/assets/js/jquery-ui.js");
     // this.addScript("/assets/js/main.js");
 
-    this.addScript("https://saptech.now.sh/js/jquery.js");
-    this.addScript("https://saptech.now.sh/js/popper.min.js");
-    this.addScript("https://saptech.now.sh/js/bootstrap.min.js");
-    this.addScript("https://saptech.now.sh/js/jquery.mCustomScrollbar.concat.min.js");
-    this.addScript("https://saptech.now.sh/js/jquery.fancybox.js");
-    this.addScript("https://saptech.now.sh/js/appear.js");
-    this.addScript("https://saptech.now.sh/js/owl.js");
-    this.addScript("https://saptech.now.sh/js/wow.js");
-    this.addScript("https://saptech.now.sh/js/jquery-ui.js");
-    this.addScript("https://saptech.now.sh/js/main.js");
+    this.addScript("/assets/js/jquery.js");
+    this.addScript("/assets/js/popper.min.js");
+    this.addScript("/assets/js/bootstrap.min.js");
+    this.addScript("/assets/js/jquery.mCustomScrollbar.concat.min.js");
+    this.addScript("/assets/js/jquery.fancybox.js");
+    this.addScript("/assets/js/appear.js");
+    this.addScript("/assets/js/owl.js");
+    this.addScript("/assets/js/wow.js");
+    this.addScript("/assets/js/jquery-ui.js");
+    this.addScript("/assets/js/main.js");
 
     
   }
