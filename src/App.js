@@ -19,15 +19,15 @@ class App extends React.Component {
     this.addScript("https://saptech.now.sh/js/jquery.js");
     this.addScript("https://saptech.now.sh/js/popper.min.js");
     this.addScript("https://saptech.now.sh/js/bootstrap.min.js");
-    this.addScript(
-      "https://saptech.now.sh/js/jquery.mCustomScrollbar.concat.min.js"
-    );
+    this.addScript("https://saptech.now.sh/js/jquery.mCustomScrollbar.concat.min.js");
     this.addScript("https://saptech.now.sh/js/jquery.fancybox.js");
     this.addScript("https://saptech.now.sh/js/appear.js");
     this.addScript("https://saptech.now.sh/js/owl.js");
     this.addScript("https://saptech.now.sh/js/wow.js");
     this.addScript("https://saptech.now.sh/js/jquery-ui.js");
     this.addScript("https://saptech.now.sh/js/main.js");
+
+    
   }
 
   addScript = (src, async = false) => {
