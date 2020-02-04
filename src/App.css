@@ -1,22 +1,24 @@
 @import url('https://fonts.googleapis.com/css?family=Muli:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i|Playfair+Display:400,400i,700,700i,900,900i|Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 
-@import url('/assets/css/flaticon.css');
 @import url('/assets/css/font-awesome.css');
+@import url('/assets/css/flaticon.css');
 @import url('/assets/css/animate.css');
-/* @import url('/assets/css/owl.css'); */
+@import url('/assets/css/owl.css');
 @import url('/assets/css/jquery-ui.css');
 @import url('/assets/css/custom-animate.css');
-
 @import url('/assets/css/jquery.fancybox.min.css');
-/* @import url('/assets/css/jquery.mCustomScrollbar.min.css'); */
-
-
+@import url('/assets/css/jquery.mCustomScrollbar.min.css');
+@import url('/assets/css/bootstrap.css');
+@import url('/assets/css/responsive.css');
  
 * {
 	margin:0px;
 	padding:0px;
 	border:none;
 	outline:none;
+}
+.slide.style-two{ 
+	background:url(/assets/images/main-slider/4.png) no-repeat;
 }
 
 /*** 
@@ -1235,7 +1237,7 @@ img{
 .main-slider h1 span.alternate{
 	display:block;
 	background: linear-gradient(to right, #f44c01 0%, #ff7a01 100%);
-	/* -webkit-background-clip: text; */
+	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
 
@@ -8551,7 +8553,7 @@ img{
 	font-size:38px;
 	line-height:1em;
 	background: -webkit-gradient(linear, left top, left bottom, from(#3241ff), to(#0b1599));
-    /* -webkit-background-clip: text; */
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -8692,7 +8694,7 @@ img{
 	font-size:24px;
 	line-height:1em;
 	background: -webkit-gradient(linear, left top, left bottom, from(#3241ff), to(#0b1599));
-    /* -webkit-background-clip: text; */
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 

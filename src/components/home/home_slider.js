@@ -1,14 +1,14 @@
 import React from 'react'; 
+
+
 class HomeSlider extends React.Component {
     
-     
   render() {
     return(
 			<section className="main-slider">
 			<div className="slider-outer">
-				<div className="main-slider-carousel owl-carousel owl-theme">
-					
-					<div className="slide style-two" style={{ backgroundImage:"url('/assets/images/main-slider/4.png')"}}>
+				<div className="main-slider-carousel owl-carousel owl-theme">					
+					<div className="slide style-two">
 						<div className="auto-container">
 							<div className="content">
 								<h1 className="alternate">We take extra care <span className="alternate">of your Business</span></h1>

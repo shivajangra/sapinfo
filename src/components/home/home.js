@@ -7,8 +7,7 @@ class Home extends React.Component {
     
      
   render() { 
-    return (
-      
+    return ( 
 	    <div>
       <HomeSlider />
       <HomeSection />
